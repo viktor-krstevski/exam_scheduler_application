@@ -39,7 +39,7 @@ class HomeScreen extends StatelessWidget {
     ),
     Exam(
       subjectName: "Software Engineering",
-      dateTime: DateTime(2024, 1, 30, 13, 30),
+      dateTime: DateTime(2026, 1, 30, 13, 30),
       rooms: ["E101"],
     ),
     Exam(
@@ -49,7 +49,7 @@ class HomeScreen extends StatelessWidget {
     ),
     Exam(
       subjectName: "Machine Learning",
-      dateTime: DateTime(2025, 2, 5, 10, 0),
+      dateTime: DateTime(2025, 3, 5, 10, 0),
       rooms: ["LAB 200V"],
     ),
     Exam(
